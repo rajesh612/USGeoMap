@@ -1,1 +1,1 @@
-hi this rajesh
+Run MapBuilder Jar file and Load Database schema. Import Arizona Cities shape file first and create Arizona Theme. Create Markers, Colors and Text styles.Import Arizona State Shape file and US shape file. Create US Base Map and add Arizona cities, arizona state and US themes.
